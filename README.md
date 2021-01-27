@@ -29,7 +29,7 @@ npm install
 npm run webdriver-update
 ``` 
 
-* Then you should start your selenium server!
+* Then you should start your selenium server!( You can use seperate terminal to start and monitor)
 ```
 npm run webdriver-start
 ```
